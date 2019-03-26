@@ -50,6 +50,7 @@ The video is a demonstration of the app. The video file must be included in the 
 System Documentation: (2 marks)
 Describe the structure of your app's object-oriented design using UML class diagram(s), saved as non-lossy image file(s). Focus on the most important classes that you designed and implemented. Add notes to describe the main responsibilities of these classes.
 
+-------------------------------------
 Demonstration Actions
 Open the app from the launcher.
 Show the list of measurements, with no measurements so far. (This should be the initial screen.)
@@ -81,6 +82,7 @@ Besides addressing the problem correctly, your software design will be evaluated
 
 Consult the assignment rubric.
 
+------------------------------------------
 Losing Marks
 You may lose marks for any of the following:
 
